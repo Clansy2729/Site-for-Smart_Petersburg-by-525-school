@@ -1,11 +1,12 @@
 /* коммент для появления файла у вас на сайте */
 .vhod_butt {
+    width: 100px;
     border: none;
     color: white;
     background-color: rgb(37, 70, 131);
     border-radius:7px ;
     cursor:pointer;
-    font-size: 27px;
+    font-size: 20px;
     block-size: 52px;
     margin-left: 90%;
     margin-bottom: 85%;
@@ -60,15 +61,16 @@ margin-inline-end: 20%;
     margin-left: 87%;
   }
   .vhod_knopka{
-    margin-left: 1%;
+   margin-left: 1%;
   }
   .reg_butt {
+    width: 150px;
     border: none;
     color: white;
     background-color: rgb(37, 70, 131);
     border-radius:7px ;
     cursor:pointer;
-    font-size: 27px;
+    font-size: 20px;
     block-size: 52px;
   }
   .reg_butt:hover{
@@ -76,4 +78,7 @@ margin-inline-end: 20%;
     color: rgb(0, 0, 0);}
     .dnoo {
         margin-top: 85%;
+    }
+    .reg_butt:active {
+        transform: scale(0.95);
     }
