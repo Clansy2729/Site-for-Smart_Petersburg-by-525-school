@@ -5,7 +5,7 @@
     background-color: rgb(37, 70, 131);
     border-radius:7px ;
     cursor:pointer;
-    font-size: 37px;
+    font-size: 27px;
     block-size: 52px;
     margin-left: 90%;
     margin-bottom: 85%;
@@ -44,3 +44,36 @@
             color: white; }
 
 
+.vhod {
+    display: flex;
+    margin-block: 20px;
+    margin-inline: 15px 10%;
+margin-inline-end: 20%; 
+}
+.reg_butt::before {
+    content: attr(text);
+}
+.reg_butt:hover::before {
+    content: attr(hover-text);
+  }
+  .reg_knopka {
+    margin-left: 87%;
+  }
+  .vhod_knopka{
+    margin-left: 1%;
+  }
+  .reg_butt {
+    border: none;
+    color: white;
+    background-color: rgb(37, 70, 131);
+    border-radius:7px ;
+    cursor:pointer;
+    font-size: 27px;
+    block-size: 52px;
+  }
+  .reg_butt:hover{
+    background-color:rgb(88, 136, 241);
+    color: rgb(0, 0, 0);}
+    .dnoo {
+        margin-top: 85%;
+    }
