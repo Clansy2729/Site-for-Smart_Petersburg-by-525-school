@@ -1,1 +1,43 @@
 /* коммент для появления файла у вас на сайте */
+.vhod_butt {
+    border: none;
+    color: white;
+    background-color: rgb(37, 70, 131);
+    border-radius:7px ;
+    cursor:pointer;
+    font-size: 37px;
+    block-size: 52px;
+    margin-left: 90%;
+    margin-bottom: 85%;
+    
+}
+.vhod_butt:hover{
+    background-color:rgb(88, 136, 241);
+    color: rgb(0, 0, 0);
+}
+.vhod_butt:active {
+    transform: scale(0.95);
+}
+.vhod_butt::before {
+    content: attr(text);
+  }
+  .vhod_butt:hover::before {
+    content: attr(hover-text);
+  }
+  .topnav {
+    background-color: rgba(0, 30, 96, 0.867);
+    overflow: hidden;  
+}
+.topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px; }
+    .topnav a:hover {
+        background-color: #ddd;
+        color: black; }
+        .topnav a.active {
+            background-color: #4CAF50;
+            color: white; }
