@@ -4,7 +4,7 @@ function sendEmail(){
     var email = document.getElementById('email').value;
     var message = document.getElementById('message').value;
    
-   Window.open("mailto:kraken2000abvgd@gmail.com?subject=" + encodeURIComponent(subject) + "&body=" + encodeURIComponent(body));
+   window.open("http://ya.ru");
     
     
 }
