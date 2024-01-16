@@ -77,7 +77,7 @@ margin-inline-end: 20%;
     background-color:rgb(88, 136, 241);
     color: rgb(0, 0, 0);}
     .dnoo {
-        margin-top: 85%;
+        margin-top: 60%;
     }
     .reg_butt:active {
         transform: scale(0.95);
@@ -168,4 +168,20 @@ margin-left: 5%;
     color: rgba(0, 30, 96, 0.867);
     font: 2.6rem "Fira Sans", sans-serif;
     margin-left: 38%;
+}
+.copyright{
+    font: 2.0rem "Fira Sans", sans-serif;
+    margin-left: 30%;
+}
+.contacts {
+    color: white;
+    font: 1.4rem "Fira Sans", sans-serif;
+    margin-left: 3%;
+}
+.icons{
+    margin-left: 40%;
+}
+.dnishe {
+    background-color: rgb(20, 19, 19);
+
 }
