@@ -116,68 +116,68 @@ margin-inline-end: 20%;
     font-size: 20px;
 }
 .welcome {
-    color: limegreen;
+    color: rgb(0, 0, 0);
     font: 3.8rem "Fira Sans", sans-serif;
     margin-left: 20%;
 }
 .cel{
-    color: rgb(81, 0, 157);
+    color: rgb(0, 0, 0);
     font: 2.1rem "Fira Sans", sans-serif;
     margin-left: 5%;
 }
 .kost_name{
-    color: limegreen;
+    color: rgb(0, 0, 0);
     font: 2.6rem "Fira Sans", sans-serif;
     margin-left: 37%;
 
 }
-.kosta{color: rgb(81, 0, 157);
+.kosta{color: rgb(0, 0, 0);
 font: 2.0rem "Fira Sans", sans-serif;
 margin-left: 2%;}
 .egor_name{
-    color: limegreen;
+    color: rgb(0, 0, 0);
     font: 2.6rem "Fira Sans", sans-serif;
     margin-left: 43%;
 }
 .egor{
-    color: rgb(81, 0, 157);
+    color: rgb(0, 0, 0);
     font: 2.0rem "Fira Sans", sans-serif;
     margin-left: 5%;
 }
 .ars_name{
-    color: limegreen;
+    color: rgb(0, 0, 0);
     font: 2.6rem "Fira Sans", sans-serif;
     margin-left: 40%;
 }
 .ars{
-    color: rgb(81, 0, 157);
+    color: rgb(0, 0, 0);
 font: 2.0rem "Fira Sans", sans-serif;
 margin-left: 5%;
 }
 .rom_name{
-    color: limegreen;
+    color: rgb(0, 0, 0);
     font: 2.6rem "Fira Sans", sans-serif;
     margin-left: 42%;
 }
 .rom{
-    color: rgb(81, 0, 157);
+    color: rgb(0, 0, 0);
     font: 2.0rem "Fira Sans", sans-serif;
 margin-left: 5%;
 }
 .mi{
-    color: rgb(81, 0, 157);
+    color: rgb(0, 0, 0);
 font: 2.0rem "Fira Sans", sans-serif;
 margin-left: 5%;
 }
 
 
 .prem{
-    color: limegreen;
+    color: rgb(0, 0, 0);
     font: 2.6rem "Fira Sans", sans-serif;
     margin-left: 38%;
 }
 .prem_text{
-    color: rgb(81, 0, 157);
+    color: rgb(0, 0, 0);
 }
 .copyright{
     font: 2.0rem "Fira Sans", sans-serif;
